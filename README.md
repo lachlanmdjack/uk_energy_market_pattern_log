@@ -28,10 +28,12 @@ Each week day there will be commentary on some of, but not exclusive to, the UK 
 > Long and short term sentiment
 >
 > Planned and unplanned disruptions to supply 
+> 
+> Henry Hub and LNG transportation logistics
 
 Forward curve block patterns and intraday arbitrage opportunities
 
-Typical sources: 
+Worthwhile  sources: 
 
 [System prices](https://bmrs.elexon.co.uk/system-prices)
 
@@ -39,3 +41,4 @@ Typical sources:
 
 [N2EX Day ahead](https://data.nordpoolgroup.com/auction/n2ex/prices?deliveryDate=latest&currency=GBP&aggregation=DeliveryPeriod&deliveryAreas=UK)
 
+[Hormuz Monitor](https://hormuzstraitmonitor.com/#google_vignette)
