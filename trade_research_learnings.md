@@ -57,3 +57,7 @@ Trading Opportunities
 > - Understanding GMAR assumptions and basis risks, and identify where basis risk spreads are increasing to take action to lock in margin/ prevent increased losses. 
 > - Building: Choleksy decomposition of historical covariance matrix for GMAR - importance is on that in shocks the gas + power + carbon are likely to move together not independently. Additionally, there are mean-reverting stochastic shocks + long term trends.
 > - Understanding: What is the response to model outputs, do I agree with the assumptions that have gone into it.
+> 
+
+MA50196
+https://people.bath.ac.uk/masmdp/findir.bho/50196.html
