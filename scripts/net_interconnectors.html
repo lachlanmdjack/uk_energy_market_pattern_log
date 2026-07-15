@@ -303,7 +303,7 @@ function buildNetSeries(rows, dateStr){
   const times = [...byTime.keys()].sort();
   return times
     .filter(t => {
-      // keep only entries that fall within the settlement day we're viewing
+      // keep only analysis_entries_here that fall within the settlement day we're viewing
       // For history: within dateStr UTC day. For live: everything we got.
       if(!dateStr) return true;
       const d = new Date(t);
