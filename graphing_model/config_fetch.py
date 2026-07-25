@@ -1,7 +1,7 @@
 import requests,pandas as pd
 
-start_date = "2026-07-04"
-end_date = "2026-07-08"
+start_date = "2026-07-22"
+end_date = "2026-07-22"
 
 def fetch_bmrs(url_component, **kwargs) -> pd.DataFrame:
     r = requests.get(f"https://data.elexon.co.uk/bmrs/api/v1/{url_component}",
