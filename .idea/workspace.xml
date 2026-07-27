@@ -7,20 +7,10 @@
     <option name="groupLineBookmarks" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d59a20-d281-4fbf-843a-9253754d2172" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyProjectModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uk_energy_market_pattern_log.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/additional_models/generation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026-07-16_wind.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" />
+    <list default="true" id="00d59a20-d281-4fbf-843a-9253754d2172" name="Changes" comment="reverting">
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
@@ -56,61 +51,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7395422568678347" />
-      <entry key="MS500" value="3.06238599689878" />
-      <entry key="S2" value="4.771537819089918" />
-      <entry key="S5" value="7.207332254388881" />
-      <entry key="S10" value="9.486299256798999" />
-      <entry key="S30" value="15.938835259653157" />
-      <entry key="S60" value="22.619705151430257" />
-      <entry key="M2" value="30.33503161491749" />
-      <entry key="M5" value="43.44847548447744" />
-      <entry key="M10" value="83.62792986519896" />
-      <entry key="M15" value="155.26246019053747" />
-      <entry key="M30" value="438.40954767783757" />
-      <entry key="H1" value="960.8847836488147" />
-      <entry key="H2" value="1748.1504856510185" />
-      <entry key="H4" value="2793.7360938099655" />
-      <entry key="D1" value="6098.814133389951" />
-      <entry key="W1" value="7969.268754136578" />
+      <entry key="MS100" value="1.0000000000162588" />
+      <entry key="MS500" value="1.0069537166661062" />
+      <entry key="S2" value="1.289556476730746" />
+      <entry key="S5" value="1.6945580242988418" />
+      <entry key="S10" value="2.239199326450548" />
+      <entry key="S30" value="5.625803902231102" />
+      <entry key="S60" value="13.223694646535371" />
+      <entry key="M2" value="33.06718229969534" />
+      <entry key="M5" value="102.3576642890729" />
+      <entry key="M10" value="193.40214008950778" />
+      <entry key="M15" value="272.14976494796764" />
+      <entry key="M30" value="532.276648147779" />
+      <entry key="H1" value="1046.0018414978817" />
+      <entry key="H2" value="1859.0036497051922" />
+      <entry key="H4" value="2952.1133335906234" />
+      <entry key="D1" value="6376.790421526231" />
+      <entry key="W1" value="8302.58885937525" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="2.672703781179103E-140" />
-      <entry key="S60" value="1.634840598094776E-70" />
-      <entry key="M2" value="1.2786088526577248E-35" />
-      <entry key="M5" value="1.103303720809616E-14" />
-      <entry key="M10" value="1.0503827397784819E-7" />
-      <entry key="M15" value="2.2262528191848093E-5" />
-      <entry key="M30" value="0.004747902501926821" />
-      <entry key="H1" value="0.0762852067438173" />
-      <entry key="H2" value="0.38491422411315174" />
-      <entry key="H4" value="1.0071490562672913" />
-      <entry key="D1" value="2.479072850470137" />
-      <entry key="W1" value="2.9187654360980413" />
+      <entry key="S2" value="7.452464350060171E-143" />
+      <entry key="S5" value="1.40902910130674E-57" />
+      <entry key="S10" value="3.753703639482911E-29" />
+      <entry key="S30" value="3.348266315976958E-10" />
+      <entry key="S60" value="1.8298268540976623E-5" />
+      <entry key="M2" value="0.004277647547540163" />
+      <entry key="M5" value="0.11284491646468878" />
+      <entry key="M10" value="0.33592399601370565" />
+      <entry key="M15" value="0.483245341095466" />
+      <entry key="M30" value="0.6979631174889964" />
+      <entry key="H1" value="0.8924477503672577" />
+      <entry key="H2" value="1.2507202998709126" />
+      <entry key="H4" value="1.8988077957542497" />
+      <entry key="D1" value="3.4445875869161164" />
+      <entry key="W1" value="3.913131674511075" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.5961525356496107" />
-      <entry key="MS500" value="3.0261686698517134" />
-      <entry key="S2" value="4.757877213550086" />
-      <entry key="S5" value="7.198492052805803" />
-      <entry key="S10" value="9.480421799591369" />
-      <entry key="S30" value="15.935698983415245" />
-      <entry key="S60" value="22.617513666854805" />
-      <entry key="M2" value="30.333553655027004" />
-      <entry key="M5" value="43.4465695021486" />
-      <entry key="M10" value="83.62263689784405" />
-      <entry key="M15" value="155.25533176663825" />
-      <entry key="M30" value="438.40662138201986" />
-      <entry key="H1" value="960.9551194557018" />
-      <entry key="H2" value="1748.5311428804755" />
-      <entry key="H4" value="2794.7400780016605" />
-      <entry key="D1" value="6101.292200600749" />
-      <entry key="W1" value="7972.187349220123" />
+      <entry key="MS100" value="0.979420297602741" />
+      <entry key="MS500" value="1.0027650168803066" />
+      <entry key="S2" value="1.288116241769704" />
+      <entry key="S5" value="1.693758330060018" />
+      <entry key="S10" value="2.238586957942036" />
+      <entry key="S30" value="5.62388155330416" />
+      <entry key="S60" value="13.220347077391176" />
+      <entry key="M2" value="33.066921349686886" />
+      <entry key="M5" value="102.46526537364251" />
+      <entry key="M10" value="193.73249450990508" />
+      <entry key="M15" value="272.6268130395869" />
+      <entry key="M30" value="532.9677471506157" />
+      <entry key="H1" value="1046.8884027656354" />
+      <entry key="H2" value="1860.2499398711457" />
+      <entry key="H4" value="2954.0088182243735" />
+      <entry key="D1" value="6380.233952966191" />
+      <entry key="W1" value="8306.501812146977" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -125,31 +120,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.config_fetch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.graphing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prices.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lachlan.jack/Pycharm/uk_energy_market_pattern_log/analysis_entries_here&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.config_fetch.executor": "Run",
+    "Python.generation.executor": "Run",
+    "Python.graphing.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.prices.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "jekyll",
+    "git.auto.fetch.suggestion.counter": "1",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/lachlan.jack/Pycharm/uk_energy_market_pattern_log/analysis_entries_here",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/analysis_entries_here" />
@@ -252,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785185430644</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="reverting">
+      <option name="closed" value="true" />
+      <created>1785186479862</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1785186479862</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +275,7 @@
     <MESSAGE value="renaming folder" />
     <MESSAGE value="week long changes" />
     <MESSAGE value="jekyll addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="jekyll addition" />
+    <MESSAGE value="reverting" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverting" />
   </component>
 </project>
